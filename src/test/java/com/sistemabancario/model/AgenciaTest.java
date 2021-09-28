@@ -3,7 +3,7 @@ package com.sistemabancario.model;
 import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.Test;
 
-public class AgenciaTest {
+class AgenciaTest {
     
     @Test
     void criarAgencia() {

@@ -2,7 +2,7 @@ package com.sistemabancario.model;
 
 public class Cliente {
 
-    public int idade;
+    private int idade;
     private String nome;
 
     public Cliente(String nome, int idade) throws Exception {

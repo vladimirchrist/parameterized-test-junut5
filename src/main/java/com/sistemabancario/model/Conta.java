@@ -16,7 +16,7 @@ public class Conta {
         this.agencia = agencia;
         this.cliente = cliente;
         
-        this.movimentacoes = new ArrayList();
+        this.movimentacoes = new ArrayList<>();
     }
     
     public Agencia getAgencia() {
